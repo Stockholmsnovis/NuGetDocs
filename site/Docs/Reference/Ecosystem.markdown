@@ -191,7 +191,7 @@ Provides:
   * Python
 
 ## OctopusDeploy
-[OctopusDeploy](http://octopusdeploy.com/) is a convention-based automated deployment solution using NuGet as a protocol. You can use the Community edition for free (limited to 1 project) or [buy](http://octopusdeploy.com/purchase) one of the paying editions.
+[OctopusDeploy](http://octopusdeploy.com/) is a convention-based automated deployment solution using NuGet as a protocol. You can use the Community edition for free (limited to 5 projects) or [buy](http://octopusdeploy.com/purchase) one of the paying editions.
 
 * Documentation: [http://octopusdeploy.com/documentation](http://octopusdeploy.com/documentation)
 * Blog: [http://octopusdeploy.com/blog](http://octopusdeploy.com/blog)
